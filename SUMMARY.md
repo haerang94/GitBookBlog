@@ -4,7 +4,6 @@
 
 ## 웹 개발 개념 모음집
 
-* [react](undefined/untitled.md)
-* [test](undefined/test.md)
-* [Untitled](untitled.md)
+* [react](undefined/react/README.md)
+  * [Untitled](undefined/react/untitled.md)
 
